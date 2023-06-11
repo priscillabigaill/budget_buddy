@@ -23,11 +23,12 @@ Priscilla Abigail Munthe - 2602109883
 
 ### Screenshots
 
-<img src="screenshots/login.png" width="200px" alt="Login">
-<img src="screenshots/dashboard.png" width="400px" alt="Dashboard">
-<img src="screenshots/add.png" width="400px" alt="Add">
-<img src="screenshots/categories.png" width="400px" alt="Categories">
-<img src="screenshots/details.png" width="400px" alt="Details">
+<img src="screenshots/login.png" width="400px" alt="Login">
+<img src="screenshots/dashboard.png" width="600px" alt="Dashboard">
+<img src="screenshots/add.png" width="600px" alt="Add">
+<img src="screenshots/categories.png" width="600px" alt="Categories">
+<img src="screenshots/details.png" width="600px" alt="Details">
+
 
 
 
