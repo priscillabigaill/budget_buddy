@@ -1,0 +1,18 @@
+Expense,Food,5000,Bought groceries,2023-06-01
+Expense,Gift,3000,Purchased a birthday present,2023-06-02
+Expense,Skincare,4000,Invested in skincare products,2023-06-03
+Expense,Food,3500,Enjoyed a meal out with friends,2023-06-04
+Expense,Gift,2000,Purchased a thoughtful gift,2023-06-05
+Expense,Skincare,4500,Restocked essential skincare items,2023-06-06
+Income,Salary,5000,Received income from work,2023-06-07
+Income,Bonus,2000,Received a test payment,2023-06-08
+Income,Salary,2000,Received testing income,2023-06-09
+Income,Salary,2000,Received testing income,2023-06-09
+Income,Salary,10000,Received testing income,2023-06-09
+Income,Bonus,2000,Received another test payment,2023-06-10
+Income,Bonus,20000,Received another test payment,2023-06-10
+Income,Salary,1000,Income from an unknown source,2023-06-11
+Expense,Makeup,3000,Purchased makeup products,2023-06-12
+Expense,Skincare,6000,Invested in skincare items,2023-06-13
+Income,Salary,8000,Received income from work,2023-06-14
+Income,Gift,1000,Received a gift,2023-07-10

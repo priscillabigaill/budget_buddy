@@ -1,0 +1,7 @@
+Daily/100
+Food/20000
+Education/300000
+Gift/21000
+Skincare/40000
+Makeup/1002001
+Friends/1000

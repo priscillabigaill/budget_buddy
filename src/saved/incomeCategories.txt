@@ -1,0 +1,4 @@
+Salary
+Inheritance
+Gift
+Bonus
