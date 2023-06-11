@@ -1,6 +1,6 @@
 # BudgetBuddy 💰
 
-An expense tracker system for OOP final project
+BudgetBuddy is a user-friendly expense tracker system developed as a final project for Object-Oriented Programming (OOP). 
 
 Priscilla Abigail Munthe - 2602109883
 
