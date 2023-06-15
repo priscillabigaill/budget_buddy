@@ -4,7 +4,7 @@ BudgetBuddy is a user-friendly expense tracker system developed as a final proje
 
 Priscilla Abigail Munthe - 2602109883
 
-[![Demo Video](https://img.shields.io/badge/Demo%20Video-Watch-red?logo=youtube)](https://www.example.com/video-link)
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-Watch-red?logo=youtube)]([https://www.example.com/video-link](https://www.youtube.com/watch?v=ibhQrORU7iU)
 [![Report](https://img.shields.io/badge/Report-Read-blue?logo=microsoft-word)](https://www.example.com/report-link)
 [![UML Diagram](https://img.shields.io/badge/UML%20Diagram-View-blue?logo=diagramsdotnet)](https://drive.google.com/file/d/1rbGtroJlZpY8ddmi3N7UZV0OgES6Q5WF/view?usp=sharing)
 
